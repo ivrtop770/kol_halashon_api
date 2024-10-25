@@ -1,7 +1,7 @@
 # Kol Halashon API
 
 NodeJs wrapper for Kol Halashon website API.
-
+Based on the library of https://github.com/ZviCode/KolHalashonApi
 ## Installation
 ```bash
 npm install kol_halashon_api
