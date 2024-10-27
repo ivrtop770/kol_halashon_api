@@ -8,7 +8,7 @@ npm install kol_halashon_api
 ```
 
 ## Usage
-```nodejs
+```js
 const { KolHalashonAPI, QualityLevel } = require('kol_halashon_api');
 
 const api = new KolHalashonAPI();
