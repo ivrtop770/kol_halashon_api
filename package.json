@@ -1,14 +1,19 @@
 {
   "name": "kol_halashon_api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "api.js",
+  "homepage": "https://github.com/ivrtop770/kol_halashon_api",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "ivrtop770, cs@ivrtop.com",
   "license": "ISC",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivrtop770/kol_halashon_api"
+  },
   "dependencies": {
     "dotenv": "^16.4.5"
   }
